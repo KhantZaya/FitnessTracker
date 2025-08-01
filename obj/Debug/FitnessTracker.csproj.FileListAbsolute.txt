@@ -1,0 +1,15 @@
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.csproj.AssemblyReference.cache
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.Form1.resources
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.Forms.UserLoginForm.resources
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.Properties.Resources.resources
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.csproj.GenerateResource.cache
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.csproj.CoreCompileInputs.cache
+D:\Users\khantzaya\source\repos\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+D:\Users\khantzaya\source\repos\FitnessTracker\bin\Debug\FitnessTracker.exe
+D:\Users\khantzaya\source\repos\FitnessTracker\bin\Debug\FitnessTracker.pdb
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.exe
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.pdb
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.Forms.UserRegisterForm.resources
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.Forms.GoalForm.resources
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.Forms.UserActivityForm.resources
+D:\Users\khantzaya\source\repos\FitnessTracker\obj\Debug\FitnessTracker.Forms.UserActivityDashboardForm.resources

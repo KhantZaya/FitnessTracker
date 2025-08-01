@@ -1,0 +1,733 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\runningactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\runningactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|d:\\users\\khantzaya\\source\\repos\\fitnesstracker\\domain\\activityfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\activityfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\hikingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\hikingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\services\\metricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:services\\metricservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\swimmingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\swimmingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\walkingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\walkingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\cyclingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\cyclingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\jumpropeactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\jumpropeactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\userregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\userregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\userregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\userregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\useractivitydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\useractivitydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\useractivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\useractivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\useractivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\useractivityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\useractivitydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\useractivitydashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\useractivitydashboardform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\useractivitydashboardform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\goalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\goalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\goalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\goalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\useractivitydashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\useractivitydashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\useractivityform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\useractivityform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\services\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:services\\useractivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\goalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\goalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\goalform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\goalform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\services\\goalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:services\\goalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\activitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\activitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\domain\\defaultactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:domain\\defaultactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\userloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\userloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\services\\activitymetircservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:services\\activitymetircservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\models\\metric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:models\\metric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\models\\activitymetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:models\\activitymetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\userregisterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\userregisterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\forms\\userloginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:forms\\userloginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\utils\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9BF5A-23CD-418B-9AD4-FC74FC381632}|FitnessTracker.csproj|solutionrelative:utils\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HikingActivity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\HikingActivity.cs",
+              "RelativeDocumentMoniker": "Domain\\HikingActivity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\HikingActivity.cs",
+              "RelativeToolTip": "Domain\\HikingActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T04:06:48.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SwimmingActivity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\SwimmingActivity.cs",
+              "RelativeDocumentMoniker": "Domain\\SwimmingActivity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\SwimmingActivity.cs",
+              "RelativeToolTip": "Domain\\SwimmingActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:27:38.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunningActivity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\RunningActivity.cs",
+              "RelativeDocumentMoniker": "Domain\\RunningActivity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\RunningActivity.cs",
+              "RelativeToolTip": "Domain\\RunningActivity.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:26:43.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivityFactory.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\ActivityFactory.cs",
+              "RelativeDocumentMoniker": "Domain\\ActivityFactory.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\ActivityFactory.cs",
+              "RelativeToolTip": "Domain\\ActivityFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:28:26.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WalkingActivity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\WalkingActivity.cs",
+              "RelativeDocumentMoniker": "Domain\\WalkingActivity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\WalkingActivity.cs",
+              "RelativeToolTip": "Domain\\WalkingActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:38:29.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CyclingActivity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\CyclingActivity.cs",
+              "RelativeDocumentMoniker": "Domain\\CyclingActivity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\CyclingActivity.cs",
+              "RelativeToolTip": "Domain\\CyclingActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:43:09.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:25:39.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MetricService.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\MetricService.cs",
+              "RelativeDocumentMoniker": "Services\\MetricService.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\MetricService.cs",
+              "RelativeToolTip": "Services\\MetricService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:21:54.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JumpRopeActivity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\JumpRopeActivity.cs",
+              "RelativeDocumentMoniker": "Domain\\JumpRopeActivity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\JumpRopeActivity.cs",
+              "RelativeToolTip": "Domain\\JumpRopeActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:44:44.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegisterForm.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserRegisterForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserRegisterForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserRegisterForm.cs",
+              "RelativeToolTip": "Forms\\UserRegisterForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:34:45.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRegisterForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserRegisterForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserRegisterForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserRegisterForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserRegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:34:42.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserActivityForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserActivityForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserActivityForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:27:00.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginForm.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserLoginForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.cs",
+              "RelativeToolTip": "Forms\\UserLoginForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:15:28.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserLoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserLoginForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:15:23.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:31:22.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserActivityDashboardForm.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserActivityDashboardForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.cs",
+              "RelativeToolTip": "Forms\\UserActivityDashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:19:47.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserActivityForm.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserActivityForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityForm.cs",
+              "RelativeToolTip": "Forms\\UserActivityForm.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwJsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:27:02.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserActivityDashboardForm.resx",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.resx",
+              "RelativeDocumentMoniker": "Forms\\UserActivityDashboardForm.resx",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.resx",
+              "RelativeToolTip": "Forms\\UserActivityDashboardForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-29T05:31:03.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserActivityDashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\UserActivityDashboardForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.cs [Design]",
+              "RelativeToolTip": "Forms\\UserActivityDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T06:51:01.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GoalForm.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.cs",
+              "RelativeDocumentMoniker": "Forms\\GoalForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.cs [Design]",
+              "RelativeToolTip": "Forms\\GoalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:27:34.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Goal.cs",
+              "RelativeDocumentMoniker": "Models\\Goal.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Goal.cs",
+              "RelativeToolTip": "Models\\Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:23:07.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserActivityDashboardForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\UserActivityDashboardForm.Designer.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityDashboardForm.Designer.cs",
+              "RelativeToolTip": "Forms\\UserActivityDashboardForm.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T05:20:12.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GoalForm.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.cs",
+              "RelativeDocumentMoniker": "Forms\\GoalForm.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.cs",
+              "RelativeToolTip": "Forms\\GoalForm.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAEwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:27:36.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserActivityForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\UserActivityForm.Designer.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserActivityForm.Designer.cs",
+              "RelativeToolTip": "Forms\\UserActivityForm.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGgAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:14:34.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GoalForm.resx",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.resx",
+              "RelativeDocumentMoniker": "Forms\\GoalForm.resx",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.resx",
+              "RelativeToolTip": "Forms\\GoalForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-24T09:42:52.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserActivityService.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\UserActivityService.cs",
+              "RelativeDocumentMoniker": "Services\\UserActivityService.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\UserActivityService.cs",
+              "RelativeToolTip": "Services\\UserActivityService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:15:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GoalForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\GoalForm.Designer.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\GoalForm.Designer.cs",
+              "RelativeToolTip": "Forms\\GoalForm.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:27:59.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GoalService.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\GoalService.cs",
+              "RelativeDocumentMoniker": "Services\\GoalService.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\GoalService.cs",
+              "RelativeToolTip": "Services\\GoalService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwGAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:23:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DefaultActivity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\DefaultActivity.cs",
+              "RelativeDocumentMoniker": "Domain\\DefaultActivity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\DefaultActivity.cs",
+              "RelativeToolTip": "Domain\\DefaultActivity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:56:19.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ActivityBase.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\ActivityBase.cs",
+              "RelativeDocumentMoniker": "Domain\\ActivityBase.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Domain\\ActivityBase.cs",
+              "RelativeToolTip": "Domain\\ActivityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:25:14.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserLoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\UserLoginForm.Designer.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.Designer.cs",
+              "RelativeToolTip": "Forms\\UserLoginForm.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:17:46.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ActivityMetircService.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\ActivityMetircService.cs",
+              "RelativeDocumentMoniker": "Services\\ActivityMetircService.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\ActivityMetircService.cs",
+              "RelativeToolTip": "Services\\ActivityMetircService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:24:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\ActivityService.cs",
+              "RelativeDocumentMoniker": "Services\\ActivityService.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\ActivityService.cs",
+              "RelativeToolTip": "Services\\ActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:11:48.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ActivityMetric.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\ActivityMetric.cs",
+              "RelativeDocumentMoniker": "Models\\ActivityMetric.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\ActivityMetric.cs",
+              "RelativeToolTip": "Models\\ActivityMetric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:07:26.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Metric.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Metric.cs",
+              "RelativeDocumentMoniker": "Models\\Metric.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Metric.cs",
+              "RelativeToolTip": "Models\\Metric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:06:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Models\\Activity.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Activity.cs",
+              "RelativeToolTip": "Models\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:06:14.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Models\\Test.cs",
+              "RelativeToolTip": "Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:00:15.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserRegisterForm.Designer.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserRegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\UserRegisterForm.Designer.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserRegisterForm.Designer.cs",
+              "RelativeToolTip": "Forms\\UserRegisterForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:37:58.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-17T10:30:16.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserLoginForm.resx",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.resx",
+              "RelativeDocumentMoniker": "Forms\\UserLoginForm.resx",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Forms\\UserLoginForm.resx",
+              "RelativeToolTip": "Forms\\UserLoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-24T04:47:21.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:12:16.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "Services\\TestService.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Services\\TestService.cs",
+              "RelativeToolTip": "Services\\TestService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAmwL4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:58:18.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T10:23:47.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:13:55.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Utils\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\PasswordHelper.cs",
+              "ToolTip": "D:\\Users\\khantzaya\\source\\repos\\FitnessTracker\\Utils\\PasswordHelper.cs",
+              "RelativeToolTip": "Utils\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T03:03:52.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
